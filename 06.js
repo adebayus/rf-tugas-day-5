@@ -9,8 +9,11 @@ const printNumberRange = (start, finish) => {
 
 
 // first argument should number start,
-" second argument should number stop"
+//  second argument should number stop
 console.log(printNumberRange(4,8))
 "asddas"
 "asdasdasdasd"
 "WES TA GANTI"
+
+
+"wewaeeawe"
