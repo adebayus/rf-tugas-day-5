@@ -13,3 +13,4 @@ const printNumberRange = (start, finish) => {
 console.log(printNumberRange(4,8))
 "asddas"
 "asdasdasdasd"
+"WES TA GANTI"
